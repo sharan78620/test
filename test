@@ -7,9 +7,18 @@ body
 h1,h2
 {
 	font-family: Trebuchet, Tahoma, Arial, sans-serif;
+	background-color: pink;
+	color: black;
+}
+
+p {
+	background-color:green;
+	borader: 1px soild pink;
+	color: purple;	
 }
 html
 {
 	font-size: 15px;
 	box-sizing: border-box;
+	
 }
