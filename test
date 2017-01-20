@@ -1,0 +1,15 @@
+body
+{
+	font-family: Helvetica, Arial, sans-serif;
+	margin: 0 auto;
+	background-color: pink;
+}
+h1,h2
+{
+	font-family: Trebuchet, Tahoma, Arial, sans-serif;
+}
+html
+{
+	font-size: 15px;
+	box-sizing: border-box;
+}
